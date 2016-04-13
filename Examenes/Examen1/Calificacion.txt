@@ -1,0 +1,13 @@
+Ejercicio 1 = 1.5
+
+Ejercicio 2 = 1.5
+
+Ejercicio 3 = 2
+
+Ejercicio 4 = 2
+
+Ejercicio 5 = 0
+
++0.5
+
+Total: 7.5
