@@ -1,0 +1,11 @@
+Ejercicio 1 = 1
+
+Ejercicio 2 = 2
+
+Ejercicio 3 = 2
+
+Ejercicio 4 = 2
+
+Ejercicio 5 = 3
+
+Total: 
