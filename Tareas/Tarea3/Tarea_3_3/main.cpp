@@ -21,7 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     int n;
-    double *a, *b, *c;
+    double *a, *b;
     cout << "De que tamaño sera el arreglo A, solo numeros enteros \n";
     cin >> n;
 
