@@ -1,0 +1,7 @@
+Estas son las expresiones algebraicas transcritas en lenguaje c/c++.
+
+sqrt(x+y)
+pow(x,(y+7))
+sqrt(area + margen)
+sqrt((tiempo+ marca)/año)
+abs(x-y)
