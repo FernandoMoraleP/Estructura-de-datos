@@ -1,0 +1,15 @@
+Es un proceso mediante el cual se designa y reserva el espacio que usara un programa dentro de la memoria de un sistema operativo, 
+para así tratar de evitar el desperdicio de la misma.
+
+main() { 
+int n; 
+float *reales; 
+// el nombre del arreglo es un apuntador 
+// preguntar al usuario por el numero n 
+cout << “de que tamaño es el arreglo?; 
+cin >> n; // alojar el arreglo de tamaño n 
+reales = new float[ n ]; 
+// liberar la memoria 
+delete [] reales; 
+return 0; 
+}
