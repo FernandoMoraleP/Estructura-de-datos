@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
         cout << "2.) Cola" << endl;
         cout << "3.) Terminar programa" << endl;
 
-        cout << endl;
+        
         cin >> opcion;
 
         switch (opcion) {
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
                 break;
             case 3:
 
-                cout << "Hasta luego. :)" << endl;
+                cout << "Hasta luego." << endl;
                 repetir = false;
                 break;
 
